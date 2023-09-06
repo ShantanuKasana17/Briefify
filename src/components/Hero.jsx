@@ -5,12 +5,12 @@ function Hero() {
     <header className="w-full flex justify-center items-center flex-col">
       <nav className="flex justify-between items-center w-full mb-10 pt-3">
         <img src="https://brieflyfy.netlify.app/assets/logo-26c5c6d2.svg" alt="sumz_logo" className="w-28 object-contain" />
-        <span className="blue_gradient ">Breifify</span>
+        {/* <span className="blue_gradient ">Breifify</span> */}
         <button
           type="button"
           onClick={() =>
             window.open(
-              "https://github.com/RaviRajZt/article_summarizer",
+              "https://github.com/ShantanuKasana17/Briefify",
               "_blank"
             )
           }
