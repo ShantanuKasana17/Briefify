@@ -4,7 +4,7 @@
 This is A React Application uses the Article Extractor and Summarizer API from RapidAPI to summarize articles or URLs.
 
 
-![AI Summarizer](https://i.ibb.co/89Zqg2q/Screenshot-2023-04-26-at-13-16-47.png)
+![AI Summarizer](D:\---------Shantanu PC Contents------------\Pictures\Screenshots\Screenshot (6).png)
 
 ## Usage
 
