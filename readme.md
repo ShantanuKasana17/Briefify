@@ -14,7 +14,7 @@ To use the application, simply enter the article or URL you want to summarize in
 
 To install the application, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/RaviRajZt/article_summarizer.git`
+1. Clone the repository: `git clone https://github.com/ShantanuKasana17/Briefify.git`
 2. Install dependencies: `npm install`
 3. Create a `.env` file at the root of the project and add your RapidAPI key as `VITE_RAPID_API_ARTICLE_KEY=your-key`
 4. Start the application: `npm run dev`
@@ -23,13 +23,6 @@ To install the application, follow these steps:
 
 This application was built with VITE React App and uses the Article Extractor and Summarizer API from RapidAPI for text summarization.
 
-## Credits
-
-This project was created by [CiaoRaviRaj](https://github.com/CiaoRaviRaj).
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## API Information
 
